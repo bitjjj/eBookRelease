@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\My Documents\Visual Studio 2005\Projects\VSMacros80\Samples\Samples.vsmacros</path>
+      <name>Samples.vsmacros</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\Visual Studio 2005\Projects\VSMacros80\Samples\Samples.vsmacros</realpath>
+    </book>
+  </Books>
+</MyLibrary>

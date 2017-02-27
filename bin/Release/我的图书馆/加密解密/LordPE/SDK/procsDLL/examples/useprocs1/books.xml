@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\procsDLL\examples\useprocs1\CONSOLE.INC</path>
+      <name>CONSOLE.INC</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\procsDLL\examples\useprocs1\CONSOLE.INC</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\procsDLL\examples\useprocs1\MAKE.BAT</path>
+      <name>MAKE.BAT</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\procsDLL\examples\useprocs1\MAKE.BAT</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\procsDLL\examples\useprocs1\MAKE.PIF</path>
+      <name>MAKE.PIF</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\procsDLL\examples\useprocs1\MAKE.PIF</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\procsDLL\examples\useprocs1\UseProcs1.ASM</path>
+      <name>UseProcs1.ASM</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\procsDLL\examples\useprocs1\UseProcs1.ASM</realpath>
+    </book>
+  </Books>
+</MyLibrary>

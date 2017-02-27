@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\procsDLL\examples\useprocs2\USEPROCS.C</path>
+      <name>USEPROCS.C</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\procsDLL\examples\useprocs2\USEPROCS.C</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\procsDLL\examples\useprocs2\useprocs2.dsp</path>
+      <name>useprocs2.dsp</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\procsDLL\examples\useprocs2\useprocs2.dsp</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\procsDLL\examples\useprocs2\UseProcs2.dsw</path>
+      <name>UseProcs2.dsw</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\procsDLL\examples\useprocs2\UseProcs2.dsw</realpath>
+    </book>
+  </Books>
+</MyLibrary>

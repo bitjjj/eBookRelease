@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\Misc\SoftSnoop\Plugins\HelloWorld.dll</path>
+      <name>HelloWorld.dll</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\Misc\SoftSnoop\Plugins\HelloWorld.dll</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\Misc\SoftSnoop\Plugins\MsgHook.dll</path>
+      <name>MsgHook.dll</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\Misc\SoftSnoop\Plugins\MsgHook.dll</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\Misc\SoftSnoop\Plugins\PluginExp3.dll</path>
+      <name>PluginExp3.dll</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\Misc\SoftSnoop\Plugins\PluginExp3.dll</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\Misc\SoftSnoop\Plugins\TestMe.exe</path>
+      <name>TestMe.exe</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\Misc\SoftSnoop\Plugins\TestMe.exe</realpath>
+    </book>
+  </Books>
+</MyLibrary>

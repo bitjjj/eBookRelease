@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\LDS_Clients\CoolDump1.4\Cooldump.exe</path>
+      <name>Cooldump.exe</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\LDS_Clients\CoolDump1.4\Cooldump.exe</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\LDS_Clients\CoolDump1.4\File_id.diz</path>
+      <name>File_id.diz</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\LDS_Clients\CoolDump1.4\File_id.diz</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\LDS_Clients\CoolDump1.4\Genoep.dll</path>
+      <name>Genoep.dll</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\LDS_Clients\CoolDump1.4\Genoep.dll</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\LDS_Clients\CoolDump1.4\Ug2002.nfo</path>
+      <name>Ug2002.nfo</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\LDS_Clients\CoolDump1.4\Ug2002.nfo</realpath>
+    </book>
+  </Books>
+</MyLibrary>

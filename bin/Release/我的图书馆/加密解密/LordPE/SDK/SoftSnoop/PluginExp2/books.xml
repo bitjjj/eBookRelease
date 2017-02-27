@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\SoftSnoop\PluginExp2\BUILD.BAT</path>
+      <name>BUILD.BAT</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\SoftSnoop\PluginExp2\BUILD.BAT</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\SoftSnoop\PluginExp2\BUILD.PIF</path>
+      <name>BUILD.PIF</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\SoftSnoop\PluginExp2\BUILD.PIF</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\SoftSnoop\PluginExp2\MsgHook.ASM</path>
+      <name>MsgHook.ASM</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\SoftSnoop\PluginExp2\MsgHook.ASM</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\SoftSnoop\PluginExp2\RESOURCE.INC</path>
+      <name>RESOURCE.INC</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\SoftSnoop\PluginExp2\RESOURCE.INC</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\SoftSnoop\PluginExp2\Rsrc.res</path>
+      <name>Rsrc.res</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\SoftSnoop\PluginExp2\Rsrc.res</realpath>
+    </book>
+  </Books>
+</MyLibrary>

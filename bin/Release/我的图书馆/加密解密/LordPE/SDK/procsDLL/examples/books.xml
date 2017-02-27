@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\procsDLL\examples\EXP1Out.BAT</path>
+      <name>EXP1Out.BAT</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\procsDLL\examples\EXP1Out.BAT</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\procsDLL\examples\UseProcs1.exe</path>
+      <name>UseProcs1.exe</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\procsDLL\examples\UseProcs1.exe</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\procsDLL\examples\useprocs2.exe</path>
+      <name>useprocs2.exe</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\procsDLL\examples\useprocs2.exe</realpath>
+    </book>
+  </Books>
+</MyLibrary>

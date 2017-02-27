@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\SoftSnoop\PluginExp3\PluginExp3.dpr</path>
+      <name>PluginExp3.dpr</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\SoftSnoop\PluginExp3\PluginExp3.dpr</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\SoftSnoop\PluginExp3\RSRC.RES</path>
+      <name>RSRC.RES</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\SoftSnoop\PluginExp3\RSRC.RES</realpath>
+    </book>
+  </Books>
+</MyLibrary>

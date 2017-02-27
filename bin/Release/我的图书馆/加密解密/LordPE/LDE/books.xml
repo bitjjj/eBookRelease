@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\LDE\armadmp.lde</path>
+      <name>armadmp.lde</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\LDE\armadmp.lde</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\LDE\IntelliDump.LDE</path>
+      <name>IntelliDump.LDE</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\LDE\IntelliDump.LDE</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\LDE\LDELoad.log</path>
+      <name>LDELoad.log</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\LDE\LDELoad.log</realpath>
+    </book>
+  </Books>
+</MyLibrary>

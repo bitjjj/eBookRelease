@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\realignDLL\Realign.h</path>
+      <name>Realign.h</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\realignDLL\Realign.h</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\realignDLL\realign.lib</path>
+      <name>realign.lib</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\realignDLL\realign.lib</realpath>
+    </book>
+  </Books>
+</MyLibrary>

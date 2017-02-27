@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\My Documents\Axialis Librarian\媒体文件\desktop.ini</path>
+      <name>desktop.ini</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\Axialis Librarian\媒体文件\desktop.ini</realpath>
+    </book>
+  </Books>
+</MyLibrary>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\Misc\SoftSnoop\APISnoop.dll</path>
+      <name>APISnoop.dll</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\Misc\SoftSnoop\APISnoop.dll</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\Misc\SoftSnoop\ForceLibrary.dll</path>
+      <name>ForceLibrary.dll</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\Misc\SoftSnoop\ForceLibrary.dll</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\Misc\SoftSnoop\SoftSnoop.exe</path>
+      <name>SoftSnoop.exe</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\Misc\SoftSnoop\SoftSnoop.exe</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\Misc\SoftSnoop\SoftSnoop.tXt</path>
+      <name>SoftSnoop.tXt</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\Misc\SoftSnoop\SoftSnoop.tXt</realpath>
+    </book>
+  </Books>
+</MyLibrary>

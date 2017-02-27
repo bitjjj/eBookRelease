@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\URLs\.NET Framework.URL</path>
+      <name>.NET Framework.URL</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\URLs\.NET Framework.URL</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\URLs\16Edit FX-package.url</path>
+      <name>16Edit FX-package.url</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\URLs\16Edit FX-package.url</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\URLs\yoda's home.url</path>
+      <name>yoda's home.url</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\URLs\yoda's home.url</realpath>
+    </book>
+  </Books>
+</MyLibrary>

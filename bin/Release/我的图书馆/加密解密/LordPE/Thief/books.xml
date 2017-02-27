@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\Thief\PE Explorer.tXt</path>
+      <name>PE Explorer.tXt</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\Thief\PE Explorer.tXt</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\Thief\TDS_Adjuster.jpg</path>
+      <name>TDS_Adjuster.jpg</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\Thief\TDS_Adjuster.jpg</realpath>
+    </book>
+  </Books>
+</MyLibrary>

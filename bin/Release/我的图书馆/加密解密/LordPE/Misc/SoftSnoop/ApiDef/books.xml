@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\Misc\SoftSnoop\ApiDef\Kernel32.ss</path>
+      <name>Kernel32.ss</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\Misc\SoftSnoop\ApiDef\Kernel32.ss</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\Misc\SoftSnoop\ApiDef\SS.TXT</path>
+      <name>SS.TXT</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\Misc\SoftSnoop\ApiDef\SS.TXT</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\Misc\SoftSnoop\ApiDef\User32.ss</path>
+      <name>User32.ss</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\Misc\SoftSnoop\ApiDef\User32.ss</realpath>
+    </book>
+  </Books>
+</MyLibrary>

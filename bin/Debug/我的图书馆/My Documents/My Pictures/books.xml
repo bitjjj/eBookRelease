@@ -1,0 +1,280 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\105.png</path>
+      <name>105.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\105.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\106.png</path>
+      <name>106.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\106.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\108.png</path>
+      <name>108.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\108.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\109.png</path>
+      <name>109.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\109.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\10e32e12296.jpg</path>
+      <name>10e32e12296.jpg</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\10e32e12296.jpg</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\110.png</path>
+      <name>110.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\110.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\111.png</path>
+      <name>111.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\111.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\113.png</path>
+      <name>113.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\113.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\145.png</path>
+      <name>145.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\145.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\19.gif</path>
+      <name>19.gif</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\19.gif</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\2006111002491010151.jpg</path>
+      <name>2006111002491010151.jpg</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\2006111002491010151.jpg</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\206.png</path>
+      <name>206.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\206.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\21.png</path>
+      <name>21.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\21.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\26.png</path>
+      <name>26.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\26.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\27.png</path>
+      <name>27.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\27.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\35.png</path>
+      <name>35.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\35.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\37.png</path>
+      <name>37.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\37.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\38.png</path>
+      <name>38.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\38.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\39.png</path>
+      <name>39.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\39.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\5.png</path>
+      <name>5.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\5.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\50.png</path>
+      <name>50.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\50.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\51.png</path>
+      <name>51.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\51.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\53.png</path>
+      <name>53.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\53.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\55.png</path>
+      <name>55.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\55.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\56.png</path>
+      <name>56.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\56.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\57.png</path>
+      <name>57.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\57.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\61.png</path>
+      <name>61.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\61.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\62.png</path>
+      <name>62.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\62.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\63.png</path>
+      <name>63.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\63.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\64.gif</path>
+      <name>64.gif</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\64.gif</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\64.png</path>
+      <name>64.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\64.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\66.png</path>
+      <name>66.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\66.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\67.png</path>
+      <name>67.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\67.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\7.png</path>
+      <name>7.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\7.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\82.png</path>
+      <name>82.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\82.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\83.png</path>
+      <name>83.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\83.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\85.png</path>
+      <name>85.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\85.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\93.png</path>
+      <name>93.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\93.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\99.png</path>
+      <name>99.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\99.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\A076066654687GAR.jpg</path>
+      <name>A076066654687GAR.jpg</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\A076066654687GAR.jpg</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\Adobe16.jpg</path>
+      <name>Adobe16.jpg</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\Adobe16.jpg</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\bg.gif</path>
+      <name>bg.gif</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\bg.gif</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\Desktop.ini</path>
+      <name>Desktop.ini</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\Desktop.ini</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\footbg.jpg</path>
+      <name>footbg.jpg</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\footbg.jpg</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\h.png</path>
+      <name>h.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\h.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\iso.png</path>
+      <name>iso.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\iso.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\java.png</path>
+      <name>java.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\java.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\new.png</path>
+      <name>new.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\new.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\P38.bmp</path>
+      <name>P38.bmp</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\P38.bmp</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\pdf.png</path>
+      <name>pdf.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\pdf.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\rmvb.png</path>
+      <name>rmvb.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\rmvb.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\Thumbs.db</path>
+      <name>Thumbs.db</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\Thumbs.db</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\topbg.jpg</path>
+      <name>topbg.jpg</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\topbg.jpg</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\wmv.png</path>
+      <name>wmv.png</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\wmv.png</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\示例图片.lnk</path>
+      <name>示例图片.lnk</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\示例图片.lnk</realpath>
+    </book>
+  </Books>
+</MyLibrary>

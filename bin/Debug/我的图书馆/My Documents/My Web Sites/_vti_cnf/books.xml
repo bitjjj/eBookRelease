@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\My Documents\My Web Sites\_vti_cnf\其它功能.htm</path>
+      <name>其它功能.htm</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Web Sites\_vti_cnf\其它功能.htm</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Web Sites\_vti_cnf\功能导航.htm</path>
+      <name>功能导航.htm</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Web Sites\_vti_cnf\功能导航.htm</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Web Sites\_vti_cnf\录入书籍信息.htm</path>
+      <name>录入书籍信息.htm</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Web Sites\_vti_cnf\录入书籍信息.htm</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Web Sites\_vti_cnf\拖拽功能使用.htm</path>
+      <name>拖拽功能使用.htm</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Web Sites\_vti_cnf\拖拽功能使用.htm</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Web Sites\_vti_cnf\新建修改删除节点.htm</path>
+      <name>新建修改删除节点.htm</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Web Sites\_vti_cnf\新建修改删除节点.htm</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Web Sites\_vti_cnf\查找功能.htm</path>
+      <name>查找功能.htm</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Web Sites\_vti_cnf\查找功能.htm</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Web Sites\_vti_cnf\查找电子书.htm</path>
+      <name>查找电子书.htm</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Web Sites\_vti_cnf\查找电子书.htm</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Web Sites\_vti_cnf\树形窗口的使用.htm</path>
+      <name>树形窗口的使用.htm</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Web Sites\_vti_cnf\树形窗口的使用.htm</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Web Sites\_vti_cnf\注意信息.htm</path>
+      <name>注意信息.htm</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Web Sites\_vti_cnf\注意信息.htm</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Web Sites\_vti_cnf\添加文件和文件夹.htm</path>
+      <name>添加文件和文件夹.htm</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Web Sites\_vti_cnf\添加文件和文件夹.htm</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Web Sites\_vti_cnf\统计功能.htm</path>
+      <name>统计功能.htm</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Web Sites\_vti_cnf\统计功能.htm</realpath>
+    </book>
+  </Books>
+</MyLibrary>

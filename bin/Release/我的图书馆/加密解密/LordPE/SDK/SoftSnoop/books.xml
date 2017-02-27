@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\SoftSnoop\Plugins.tXt</path>
+      <name>Plugins.tXt</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\SoftSnoop\Plugins.tXt</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\SoftSnoop\SSplugin.h</path>
+      <name>SSplugin.h</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\SoftSnoop\SSplugin.h</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\SoftSnoop\SSPlugin.INC</path>
+      <name>SSPlugin.INC</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\SoftSnoop\SSPlugin.INC</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\SoftSnoop\SSPlugin.pas</path>
+      <name>SSPlugin.pas</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\SoftSnoop\SSPlugin.pas</realpath>
+    </book>
+  </Books>
+</MyLibrary>

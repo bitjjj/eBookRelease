@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\My Documents\My Web Sites\_vti_pvt\botinfs.cnf</path>
+      <name>botinfs.cnf</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Web Sites\_vti_pvt\botinfs.cnf</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Web Sites\_vti_pvt\bots.cnf</path>
+      <name>bots.cnf</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Web Sites\_vti_pvt\bots.cnf</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Web Sites\_vti_pvt\deptodoc.btr</path>
+      <name>deptodoc.btr</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Web Sites\_vti_pvt\deptodoc.btr</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Web Sites\_vti_pvt\doctodep.btr</path>
+      <name>doctodep.btr</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Web Sites\_vti_pvt\doctodep.btr</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Web Sites\_vti_pvt\fpdbw.ico</path>
+      <name>fpdbw.ico</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Web Sites\_vti_pvt\fpdbw.ico</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Web Sites\_vti_pvt\linkinfo.btr</path>
+      <name>linkinfo.btr</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Web Sites\_vti_pvt\linkinfo.btr</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Web Sites\_vti_pvt\service.cnf</path>
+      <name>service.cnf</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Web Sites\_vti_pvt\service.cnf</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Web Sites\_vti_pvt\service.lck</path>
+      <name>service.lck</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Web Sites\_vti_pvt\service.lck</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Web Sites\_vti_pvt\services.cnf</path>
+      <name>services.cnf</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Web Sites\_vti_pvt\services.cnf</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Web Sites\_vti_pvt\structure.cnf</path>
+      <name>structure.cnf</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Web Sites\_vti_pvt\structure.cnf</realpath>
+    </book>
+  </Books>
+</MyLibrary>

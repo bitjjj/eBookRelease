@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\3413\1.gif</path>
+      <name>1.gif</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\3413\1.gif</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\My Pictures\3413\Thumbs.db</path>
+      <name>Thumbs.db</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Pictures\3413\Thumbs.db</realpath>
+    </book>
+  </Books>
+</MyLibrary>

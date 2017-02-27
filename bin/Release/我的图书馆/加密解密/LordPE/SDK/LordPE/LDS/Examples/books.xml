@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\LordPE\LDS\Examples\CallModMem.EXE</path>
+      <name>CallModMem.EXE</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\LordPE\LDS\Examples\CallModMem.EXE</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\LordPE\LDS\Examples\LDSChat.exe</path>
+      <name>LDSChat.exe</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\LordPE\LDS\Examples\LDSChat.exe</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\LordPE\LDS\Examples\LDS_DmpTst.exe</path>
+      <name>LDS_DmpTst.exe</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\LordPE\LDS\Examples\LDS_DmpTst.exe</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\LordPE\LDS\Examples\LDS_LoadDump.exe</path>
+      <name>LDS_LoadDump.exe</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\LordPE\LDS\Examples\LDS_LoadDump.exe</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\LordPE\LDS\Examples\LDS_TaskViewer.exe</path>
+      <name>LDS_TaskViewer.exe</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\LordPE\LDS\Examples\LDS_TaskViewer.exe</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\LordPE\LDS\Examples\LDS_VerPid.exe</path>
+      <name>LDS_VerPid.exe</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\LordPE\LDS\Examples\LDS_VerPid.exe</realpath>
+    </book>
+  </Books>
+</MyLibrary>

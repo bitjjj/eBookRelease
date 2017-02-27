@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\procsDLL\procs.chm</path>
+      <name>procs.chm</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\procsDLL\procs.chm</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\procsDLL\procs.h</path>
+      <name>procs.h</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\procsDLL\procs.h</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\procsDLL\procs.INC</path>
+      <name>procs.INC</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\procsDLL\procs.INC</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\procsDLL\procs.lib</path>
+      <name>procs.lib</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\procsDLL\procs.lib</realpath>
+    </book>
+  </Books>
+</MyLibrary>

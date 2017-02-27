@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\LordPE\LDS\Examples\C\Plugin.c</path>
+      <name>Plugin.c</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\LordPE\LDS\Examples\C\Plugin.c</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\LordPE\LDS\Examples\C\Plugin.dsp</path>
+      <name>Plugin.dsp</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\LordPE\LDS\Examples\C\Plugin.dsp</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\LordPE\LDS\Examples\C\Plugin.mak</path>
+      <name>Plugin.mak</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\LordPE\LDS\Examples\C\Plugin.mak</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\LordPE\LDS\Examples\C\resource.h</path>
+      <name>resource.h</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\LordPE\LDS\Examples\C\resource.h</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\LordPE\LDS\Examples\C\rsrc.rc</path>
+      <name>rsrc.rc</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\LordPE\LDS\Examples\C\rsrc.rc</realpath>
+    </book>
+  </Books>
+</MyLibrary>

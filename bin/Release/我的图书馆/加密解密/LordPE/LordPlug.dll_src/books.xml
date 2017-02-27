@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\LordPlug.dll_src\LordPlug.cpp</path>
+      <name>LordPlug.cpp</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\LordPlug.dll_src\LordPlug.cpp</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\LordPlug.dll_src\LordPlug.def</path>
+      <name>LordPlug.def</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\LordPlug.dll_src\LordPlug.def</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\LordPlug.dll_src\LordPlug.dsp</path>
+      <name>LordPlug.dsp</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\LordPlug.dll_src\LordPlug.dsp</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\LordPlug.dll_src\LordPlug.dsw</path>
+      <name>LordPlug.dsw</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\LordPlug.dll_src\LordPlug.dsw</realpath>
+    </book>
+  </Books>
+</MyLibrary>

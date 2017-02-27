@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\My Documents\My Web Sites\desktop.ini</path>
+      <name>desktop.ini</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\My Web Sites\desktop.ini</realpath>
+    </book>
+  </Books>
+</MyLibrary>

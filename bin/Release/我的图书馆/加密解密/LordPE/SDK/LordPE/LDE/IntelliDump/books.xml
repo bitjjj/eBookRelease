@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\LordPE\LDE\IntelliDump\IntelliDump.c</path>
+      <name>IntelliDump.c</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\LordPE\LDE\IntelliDump\IntelliDump.c</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\LordPE\LDE\IntelliDump\IntelliDump.DEF</path>
+      <name>IntelliDump.DEF</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\LordPE\LDE\IntelliDump\IntelliDump.DEF</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\LordPE\LDE\IntelliDump\IntelliDump.dsp</path>
+      <name>IntelliDump.dsp</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\LordPE\LDE\IntelliDump\IntelliDump.dsp</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\LordPE\LDE\IntelliDump\IntelliDump.mak</path>
+      <name>IntelliDump.mak</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\LordPE\LDE\IntelliDump\IntelliDump.mak</realpath>
+    </book>
+  </Books>
+</MyLibrary>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\My Documents\Visual Studio 2008\Visualizers\attribcache90.bin</path>
+      <name>attribcache90.bin</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\Visual Studio 2008\Visualizers\attribcache90.bin</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\Visual Studio 2008\Visualizers\autoexp.cs</path>
+      <name>autoexp.cs</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\Visual Studio 2008\Visualizers\autoexp.cs</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\Visual Studio 2008\Visualizers\autoexp.dll</path>
+      <name>autoexp.dll</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\Visual Studio 2008\Visualizers\autoexp.dll</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\Visual Studio 2008\Visualizers\autoexpce.cs</path>
+      <name>autoexpce.cs</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\Visual Studio 2008\Visualizers\autoexpce.cs</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\My Documents\Visual Studio 2008\Visualizers\autoexpce.dll</path>
+      <name>autoexpce.dll</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\Visual Studio 2008\Visualizers\autoexpce.dll</realpath>
+    </book>
+  </Books>
+</MyLibrary>

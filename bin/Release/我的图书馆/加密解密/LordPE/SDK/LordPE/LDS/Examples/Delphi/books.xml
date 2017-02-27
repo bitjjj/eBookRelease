@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\LordPE\LDS\Examples\Delphi\FindLDSAndLaunch4Delphi.dpr</path>
+      <name>FindLDSAndLaunch4Delphi.dpr</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\LordPE\LDS\Examples\Delphi\FindLDSAndLaunch4Delphi.dpr</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\LordPE\LDS\Examples\Delphi\LDS_DmpTst.dpr</path>
+      <name>LDS_DmpTst.dpr</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\LordPE\LDS\Examples\Delphi\LDS_DmpTst.dpr</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\LordPE\LDS\Examples\Delphi\LDS_VerPid.dpr</path>
+      <name>LDS_VerPid.dpr</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\LordPE\LDS\Examples\Delphi\LDS_VerPid.dpr</realpath>
+    </book>
+  </Books>
+</MyLibrary>

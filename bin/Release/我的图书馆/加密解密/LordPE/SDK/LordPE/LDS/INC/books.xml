@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\LordPE\LDS\INC\LDS.bas</path>
+      <name>LDS.bas</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\LordPE\LDS\INC\LDS.bas</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\LordPE\LDS\INC\LDS.cs</path>
+      <name>LDS.cs</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\LordPE\LDS\INC\LDS.cs</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\LordPE\LDS\INC\LDS.h</path>
+      <name>LDS.h</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\LordPE\LDS\INC\LDS.h</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\LordPE\LDS\INC\LDS.INC</path>
+      <name>LDS.INC</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\LordPE\LDS\INC\LDS.INC</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\LordPE\LDS\INC\LDS.ni</path>
+      <name>LDS.ni</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\LordPE\LDS\INC\LDS.ni</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\LordPE\LDS\INC\LDS.pas</path>
+      <name>LDS.pas</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\LordPE\LDS\INC\LDS.pas</realpath>
+    </book>
+  </Books>
+</MyLibrary>

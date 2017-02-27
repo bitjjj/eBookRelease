@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\加密解密\LordPE\SDK\LordPE\LDS\Examples\ASM\LDS_LoadDump.bat</path>
+      <name>LDS_LoadDump.bat</name>
+      <realpath>G:\软件中转站\加密解密\LordPE\SDK\LordPE\LDS\Examples\ASM\LDS_LoadDump.bat</realpath>
+    </book>
+  </Books>
+</MyLibrary>

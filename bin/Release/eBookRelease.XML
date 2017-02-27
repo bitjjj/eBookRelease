@@ -1,0 +1,668 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>eBookRelease</name>
+    </assembly>
+    <members>
+        <member name="F:eBookRelease.frmRenNode.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:eBookRelease.frmRenNode.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:eBookRelease.frmRenNode.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:eBookRelease.frmRenNode.renNodeName">
+            <summary>
+            重命名节点的名称
+            </summary>
+        </member>
+        <member name="F:eBookRelease.frmRenNode.parentNode">
+            <summary>
+            重命名节点的父节点，检查重命名节点的名称是否与已知节点的名称有重复
+            </summary>
+        </member>
+        <member name="F:eBookRelease.frmAboutSoft.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:eBookRelease.frmAboutSoft.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:eBookRelease.frmAboutSoft.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:eBookRelease.frmProgressTip.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:eBookRelease.frmProgressTip.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:eBookRelease.frmProgressTip.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:eBookRelease.frmNewNode.newNodeName">
+            <summary>
+            新节点的名字
+            </summary>
+        </member>
+        <member name="F:eBookRelease.frmNewNode.curNode">
+            <summary>
+            新建节点的父节点，检查新建节点的名称是否与已知节点的名称有重复
+            </summary>
+        </member>
+        <member name="F:eBookRelease.frmNewNode.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:eBookRelease.frmNewNode.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:eBookRelease.frmNewNode.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:eBookRelease.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:eBookRelease.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:eBookRelease.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="F:eBookRelease.frmAboutMe.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:eBookRelease.frmAboutMe.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:eBookRelease.frmAboutMe.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:eBookRelease.Book">
+            <summary>
+            Book的实体类
+            </summary>
+        </member>
+        <member name="M:eBookRelease.Book.#ctor(System.Xml.XmlNode)">
+            <summary>
+            通过book.xml文件中的一个xmlnode节点实例化Book类
+            </summary>
+            <param name="bookNode"></param>
+        </member>
+        <member name="T:eBookRelease.UpdateMainUICallback">
+            <summary>
+            回调主窗体方法的委托，隐藏进度条提示的窗体
+            </summary>
+        </member>
+        <member name="T:eBookRelease.OutputBookList">
+            <summary>
+            输出根目录下book列表信息
+            </summary>
+        </member>
+        <member name="F:eBookRelease.frmSetExport.outputItems">
+            <summary>
+            得到已经选择了的输出信息的索引范围
+            </summary>
+        </member>
+        <member name="F:eBookRelease.frmSetExport.instance">
+            <summary>
+            单件模式
+            </summary>
+        </member>
+        <member name="F:eBookRelease.frmSetExport.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:eBookRelease.frmSetExport.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:eBookRelease.frmSetExport.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:eBookRelease.SearchCondition">
+            <summary>
+            查找条件的实体类
+            </summary>
+        </member>
+        <member name="M:eBookRelease.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:eBookRelease.SortType">
+            <summary>
+            跟文件类型排序
+            </summary>
+        </member>
+        <member name="T:eBookRelease.SortPrice">
+            <summary>
+            根据价钱排序
+            </summary>
+        </member>
+        <member name="T:eBookRelease.IconIndex">
+            <summary>
+            icon图标的常量定义，与imagelist控件中的顺序一致
+            </summary>
+        </member>
+        <member name="F:eBookRelease.frmMain.rootNodeName">
+            <summary>
+            根节点名称
+            </summary>
+        </member>
+        <member name="F:eBookRelease.frmMain.lvwColumnSorter">
+            <summary>
+            列表排序类
+            </summary>
+        </member>
+        <member name="F:eBookRelease.frmMain.frmPgrTip">
+            <summary>
+            进度条提示窗口
+            </summary>
+        </member>
+        <member name="F:eBookRelease.frmMain.frmExport">
+            <summary>
+            设置输出书籍信息的窗体
+            </summary>
+        </member>
+        <member name="F:eBookRelease.frmMain.frmMe">
+            <summary>
+            作者介绍窗体
+            </summary>
+        </member>
+        <member name="F:eBookRelease.frmMain.frmSoft">
+            <summary>
+            介绍软件的窗体
+            </summary>
+        </member>
+        <member name="F:eBookRelease.frmMain.curShowNode">
+            <summary>
+            在treeview进行增删改时，与listview同步用
+            </summary>
+        </member>
+        <member name="F:eBookRelease.frmMain.errLog">
+            <summary>
+            错误日志记录
+            </summary>
+        </member>
+        <member name="M:eBookRelease.frmMain.InitBookDir">
+            <summary>
+            初始化存放信息的跟目录
+            </summary>
+        </member>
+        <member name="M:eBookRelease.frmMain.InitTreeView">
+            <summary>
+            初始化treeView中的节点
+            </summary>
+        </member>
+        <member name="M:eBookRelease.frmMain.InitListView">
+            <summary>
+            初始化ListView中的项
+            </summary>
+        </member>
+        <member name="M:eBookRelease.frmMain.AddParentNodeToListView(System.Windows.Forms.TreeNode)">
+            <summary>
+            把treeView中根节点下的目录添加到listview中
+            </summary>
+            <param name="node"></param>
+        </member>
+        <member name="M:eBookRelease.frmMain.SetTreeSelectNode(System.Windows.Forms.TreeNode)">
+            <summary>
+            设置选中树的节点
+            </summary>
+            <param name="node"></param>
+        </member>
+        <member name="M:eBookRelease.frmMain.ExpandSelectNode(System.Windows.Forms.TreeNode)">
+            <summary>
+            展开选中节点
+            </summary>
+            <param name="node"></param>
+        </member>
+        <member name="M:eBookRelease.frmMain.RestoreTvwMain(System.String,System.Windows.Forms.TreeNode)">
+            <summary>
+            初始化treeview时，添加树中的父节点
+            </summary>
+            <param name="path"></param>
+            <param name="node"></param>
+        </member>
+        <member name="M:eBookRelease.frmMain.AddLeafNodes(System.String,System.Windows.Forms.TreeNode)">
+            <summary>
+            初始化treeview时，添加树中的叶子节点
+            </summary>
+            <param name="file"></param>
+            <param name="node"></param>
+        </member>
+        <member name="M:eBookRelease.frmMain.AddTreeParentNode(System.String,System.Windows.Forms.TreeNode)">
+            <summary>
+            在treeview添加一个父节点
+            </summary>
+            <param name="nodeName"></param>
+            <param name="node"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eBookRelease.frmMain.AddTreeLeafNode(System.String,System.Windows.Forms.TreeNode)">
+            <summary>
+            把treeview中添加一个叶子节点
+            </summary>
+            <param name="nodeName"></param>
+            <param name="node"></param>
+        </member>
+        <member name="M:eBookRelease.frmMain.DelTreeParentNode(System.Windows.Forms.TreeNode)">
+            <summary>
+            删除treeview中的一个父节点
+            </summary>
+            <param name="node"></param>
+        </member>
+        <member name="M:eBookRelease.frmMain.DelTreeLeafNode(System.Windows.Forms.TreeNode)">
+            <summary>
+            删除treeview中的一个叶子节点
+            </summary>
+            <param name="node"></param>
+        </member>
+        <member name="M:eBookRelease.frmMain.RenTreeParentNode(System.String,System.Windows.Forms.TreeNode)">
+            <summary>
+            重命名treeview中的一个父节点
+            </summary>
+            <param name="oldName"></param>
+            <param name="node"></param>
+        </member>
+        <member name="M:eBookRelease.frmMain.RenTreeLeafNode(System.String,System.Windows.Forms.TreeNode)">
+            <summary>
+            重命名treeview中的一个叶子节点
+            </summary>
+            <param name="oldName"></param>
+            <param name="node"></param>
+        </member>
+        <member name="M:eBookRelease.frmMain.AddFolderToTreeView(System.String,System.Windows.Forms.TreeNode)">
+            <summary>
+            在把一个文件夹添加到treeview时，递归添加树中的节点
+            </summary>
+            <param name="folderPath"></param>
+            <param name="node"></param>
+        </member>
+        <member name="M:eBookRelease.frmMain.tvwMain_NodeMouseClick(System.Object,System.Windows.Forms.TreeNodeMouseClickEventArgs)">
+            <summary>
+            在点击treeview时设置选中的节点
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:eBookRelease.frmMain.OpenSelectedFile(System.Windows.Forms.TreeNode)">
+            <summary>
+            如果双击的是文件，则打开
+            </summary>
+            <param name="node"></param>
+        </member>
+        <member name="M:eBookRelease.frmMain.OpenSelectedFolder(System.Windows.Forms.TreeNode)">
+            <summary>
+            如果双击的是文件夹，则更新列表
+            </summary>
+            <param name="node"></param>
+        </member>
+        <member name="M:eBookRelease.frmMain.RefreshListView(eBookRelease.frmMain.Operation)">
+            <summary>
+            需要更新listview的情况分为4种
+            1）treeview添加文件，文件夹以及新建节点
+            2）重命名treeview节点并且listview中显示的内容包括当前节点
+            3）删除treeview节点并且listview中显示的内容包括当前节点，
+               而且删除的不是listview正在显示的内容
+            4）删除treeview节点并且删除的是listview正在显示的内容，
+               则需要重新显示下一个选中的节点
+            </summary>
+            <param name="oprt">操作类型</param>
+        </member>
+        <member name="M:eBookRelease.frmMain.LoadSearchPath">
+            <summary>
+            把查找路径添加到主窗体
+            </summary>
+        </member>
+        <member name="M:eBookRelease.frmMain.FinishOutputList">
+            <summary>
+            完成输出列表到文件后更新界面
+            </summary>
+        </member>
+        <member name="F:eBookRelease.frmMain.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:eBookRelease.frmMain.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:eBookRelease.frmMain.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:eBookRelease.frmMain.Operation">
+            <summary>
+            对节点的操作类型，分为添加，重命名，删除，保持树形窗口和列表窗口同步
+            </summary>
+        </member>
+        <member name="T:eBookRelease.frmMain.UpdateListViewHandler">
+            <summary>
+            根据查找到的书籍信息更新列表窗口的委托
+            </summary>
+            <param name="list"></param>
+        </member>
+        <member name="T:eBookRelease.SortDate">
+            <summary>
+            根据出版日期进行排序
+            </summary>
+        </member>
+        <member name="T:eBookRelease.ImgUtil">
+            <summary>
+            处理图像的帮助类
+            </summary>
+        </member>
+        <member name="M:eBookRelease.ImgUtil.GetIconIndex(System.String)">
+            <summary>
+            根据文件的扩展名返回相应的icon图标在imagelist中的位置
+            </summary>s
+            <param name="ext">文件的扩展名</param>
+            <returns>icon索引</returns>
+        </member>
+        <member name="T:eBookRelease.Constants">
+            <summary>
+            定义程序中用到的常量
+            </summary>
+        </member>
+        <member name="T:eBookRelease.NodeBookMap">
+            <summary>
+            树节点和book实例的映射累
+            </summary>
+        </member>
+        <member name="T:eBookRelease.CommonUtil">
+            <summary>
+            程序的工具类，提供一些常用函数
+            </summary>
+        </member>
+        <member name="M:eBookRelease.CommonUtil.GetRelativeAppDir(System.String)">
+            <summary>
+            得到相对于程序启动目录的路径
+            </summary>
+            <param name="relativePath"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eBookRelease.CommonUtil.GetFolderName(System.String)">
+            <summary>
+            从一个文件夹路径中得到文件夹的名称
+            </summary>
+            <param name="path"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eBookRelease.CommonUtil.GetFileName(System.String)">
+            <summary>
+            从一个文件路径中得到文件的名称
+            </summary>
+            <param name="path"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eBookRelease.CommonUtil.CreateDir(System.String)">
+            <summary>
+            根据路径创建一个文件夹
+            </summary>
+            <param name="path"></param>
+        </member>
+        <member name="M:eBookRelease.CommonUtil.DelDir(System.String)">
+            <summary>
+            根据路径删除一个文件夹
+            </summary>
+            <param name="path"></param>
+        </member>
+        <member name="M:eBookRelease.CommonUtil.GetParentPath(System.String)">
+            <summary>
+            得到一个路径的父路径
+            </summary>
+            <param name="path"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eBookRelease.CommonUtil.CopyFilesExt(System.String,System.String)">
+            <summary>
+            把源文件内的文件拷贝到目标文件夹内
+            </summary>
+            <param name="SourceDir"></param>
+            <param name="DestDir"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eBookRelease.CommonUtil.CopyDirExt(System.String,System.String)">
+            <summary>
+            将源文件夹拷贝到目标文件夹
+            </summary>
+            <param name="SourceDir"></param>
+            <param name="DestDir"></param>
+            <returns></returns>
+        </member>
+        <member name="T:eBookRelease.FormUtil">
+            <summary>
+            和窗体操作有关的工具类
+            </summary>
+        </member>
+        <member name="F:eBookRelease.FormUtil.errLog">
+            <summary>
+            错误日志
+            </summary>
+        </member>
+        <member name="M:eBookRelease.FormUtil.GetNewNode(System.String,System.String,System.Int32,System.Windows.Forms.ContextMenuStrip,System.String)">
+            <summary>
+            新建一个treeview节点
+            </summary>
+            <param name="nodeName">节点名字</param>
+            <param name="nodeText">节点显示文字</param>
+            <param name="nodeImgIndex">节点图标索引</param>
+            <param name="nodeCntMnu">节点右键菜单</param>
+            <param name="nodeTag">节点Tag信息</param>
+            <returns>一个新treeview节点</returns>
+        </member>
+        <member name="M:eBookRelease.FormUtil.GetNewListItem(System.Int32,System.Windows.Forms.TreeNode)">
+            <summary>
+            根据树节点新建一个列表项
+            </summary>
+            <param name="imgIndex"></param>
+            <param name="node"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eBookRelease.FormUtil.InitBookInfoFile(System.String)">
+            <summary>
+            如果还没有存放ebook信息的文件，则新建一个
+            </summary>
+            <param name="fileName"></param>
+        </member>
+        <member name="M:eBookRelease.FormUtil.WriteInfoToFile(System.String,System.Windows.Forms.TreeNode,System.Windows.Forms.TreeNode)">
+            <summary>
+            把一本eBook的信息写到文件中
+            </summary>
+            <param name="fileName"></param>
+            <param name="sourceNode"></param>
+            <param name="targetNode"></param>
+        </member>
+        <member name="M:eBookRelease.FormUtil.RecordBookInfo(System.Windows.Forms.TreeNode,System.Windows.Forms.TreeNode)">
+            <summary>
+            把源节点添加到目标节点上
+            </summary>
+            <param name="sourceNode"></param>
+            <param name="targetNode"></param>
+        </member>
+        <member name="M:eBookRelease.FormUtil.ModifyBookFile(System.Windows.Forms.TreeNode)">
+            <summary>
+            重命名节点时更新相应的book.xml文件信息
+            </summary>
+            <param name="node"></param>
+        </member>
+        <member name="M:eBookRelease.FormUtil.ModifyBookInfo(System.String)">
+            <summary>
+            更新book具体信息中的path信息
+            </summary>
+            <param name="filePath"></param>
+        </member>
+        <member name="M:eBookRelease.FormUtil.AnalyseCurNode(System.Windows.Forms.TreeNode,System.Collections.Generic.List{System.Windows.Forms.TreeNode}@,System.Collections.Generic.List{System.Windows.Forms.TreeNode}@)">
+            <summary>
+            得到一个节点的叶子节点和包含叶子节点的父节点
+            </summary>
+            <param name="curNode"></param>
+            <param name="leafNodes"></param>
+            <param name="parentNodes"></param>
+        </member>
+        <member name="M:eBookRelease.FormUtil.ContainNode(System.Windows.Forms.TreeNode,System.Windows.Forms.TreeNode)">
+            <summary>
+            判断源节点是否在目标节点下
+            </summary>
+            <param name="sourceNode"></param>
+            <param name="targetNode"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eBookRelease.FormUtil.CanDrag(System.Windows.Forms.TreeNode,System.Windows.Forms.TreeNode)">
+            <summary>
+            判断源节点是否可以拖拽到目标节点
+            </summary>
+            <param name="draggedNode"></param>
+            <param name="targetNode"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eBookRelease.FormUtil.SaveBookInfo(eBookRelease.Book,System.Windows.Forms.TreeNode)">
+            <summary>
+            保存一个book信息到book.xml文件
+            </summary>
+            <param name="book"></param>
+            <param name="node"></param>
+        </member>
+        <member name="M:eBookRelease.FormUtil.CreateBookNode(System.Windows.Forms.TreeNode)">
+            <summary>
+            根据node节点创建一个xmlnode节点
+            </summary>
+            <param name="node"></param>
+            <returns></returns>
+        </member>
+        <member name="T:eBookRelease.ComboBoxEx">
+            <summary>
+            查找路径时的下拉列表，由于列表项前面要加一个图标，所以自己写了一个类
+            </summary>
+        </member>
+        <member name="T:eBookRelease.ComboBoxExItem">
+            <summary>
+            查找路径的下拉列表项
+            </summary>
+        </member>
+        <member name="T:eBookRelease.BookInfoIndex">
+            <summary>
+            eBook信息在book.xml中的索引
+            </summary>
+        </member>
+        <member name="T:eBookRelease.SearchRangeIndex">
+            <summary>
+            必填查找选项中查找信息范围的索引
+            </summary>
+        </member>
+        <member name="T:eBookRelease.OutputBookIndex">
+            <summary>
+            输出book信息时的电子书信息索引
+            </summary>
+        </member>
+        <member name="T:eBookRelease.SearchBook">
+            <summary>
+            提供查找方法接口
+            </summary>
+        </member>
+        <member name="F:eBookRelease.SearchBook.errLog">
+            <summary>
+            错误日志
+            </summary>
+        </member>
+        <member name="F:eBookRelease.SearchBook.resultBook">
+            <summary>
+            符合要求的书籍列表信息
+            </summary>
+        </member>
+        <member name="M:eBookRelease.SearchBook.Search(eBookRelease.SearchCondition)">
+            <summary>
+            根据查找条件进行查找符合条件的书籍
+            </summary>
+            <param name="condition"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eBookRelease.SearchBook.SearchBookName(System.String,System.Collections.IList,System.Windows.Forms.TreeNode)">
+            <summary>
+            根据关键字和书名进行过滤
+            </summary>
+            <param name="keyWord"></param>
+            <param name="ranges"></param>
+            <param name="node"></param>
+        </member>
+        <member name="M:eBookRelease.SearchBook.SearchBookISBN(System.String,System.Collections.IList)">
+            <summary>
+            根据ISBN信息进行过滤
+            </summary>
+            <param name="keyWord"></param>
+            <param name="ranges"></param>
+        </member>
+        <member name="M:eBookRelease.SearchBook.SearchPressDate(System.DateTime,System.DateTime)">
+            <summary>
+            根据出版日期进行过滤
+            </summary>
+            <param name="dateFrom"></param>
+            <param name="dateTo"></param>
+        </member>
+        <member name="T:eBookRelease.ListViewColumnSorter">
+            <summary>
+            点击列表表头时排序列表项
+            </summary>
+        </member>
+    </members>
+</doc>

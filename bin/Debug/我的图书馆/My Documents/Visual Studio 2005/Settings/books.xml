@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\My Documents\Visual Studio 2005\Settings\CurrentSettings-2008-01-31.vssettings</path>
+      <name>CurrentSettings-2008-01-31.vssettings</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\Visual Studio 2005\Settings\CurrentSettings-2008-01-31.vssettings</realpath>
+    </book>
+  </Books>
+</MyLibrary>

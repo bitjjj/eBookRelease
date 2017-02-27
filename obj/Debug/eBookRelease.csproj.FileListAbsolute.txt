@@ -1,0 +1,16 @@
+H:\vc#2005\eBookRelease\eBookRelease\bin\Debug\eBookRelease.exe
+H:\vc#2005\eBookRelease\eBookRelease\bin\Debug\eBookRelease.pdb
+H:\vc#2005\eBookRelease\eBookRelease\obj\Debug\ResolveAssemblyReference.cache
+H:\vc#2005\eBookRelease\eBookRelease\obj\Debug\eBookRelease.frmMain.resources
+H:\vc#2005\eBookRelease\eBookRelease\obj\Debug\eBookRelease.Properties.Resources.resources
+H:\vc#2005\eBookRelease\eBookRelease\obj\Debug\eBookRelease.csproj.GenerateResource.Cache
+H:\vc#2005\eBookRelease\eBookRelease\obj\Debug\eBookRelease.exe
+H:\vc#2005\eBookRelease\eBookRelease\obj\Debug\eBookRelease.pdb
+H:\vc#2005\eBookRelease\eBookRelease\bin\Debug\eBookRelease.exe.config
+H:\vc#2005\eBookRelease\eBookRelease\obj\Debug\eBookRelease.frmNewNode.resources
+H:\vc#2005\eBookRelease\eBookRelease\obj\Debug\eBookRelease.frmRenNode.resources
+H:\vc#2005\eBookRelease\eBookRelease\obj\Debug\eBookRelease.frmProgressTip.resources
+H:\vc#2005\eBookRelease\eBookRelease\obj\Debug\eBookRelease.frmSetExport.resources
+H:\vc#2005\eBookRelease\eBookRelease\obj\Debug\eBookRelease.frmAboutSoft.resources
+H:\vc#2005\eBookRelease\eBookRelease\obj\Debug\eBookRelease.frmAboutMe.resources
+H:\vc#2005\eBookRelease\eBookRelease\bin\Debug\help.chm

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\My Documents\SQL Server Management Studio\Settings\CurrentSettings-2008-01-28.vssettings</path>
+      <name>CurrentSettings-2008-01-28.vssettings</name>
+      <realpath>C:\Documents and Settings\kittyjie\My Documents\SQL Server Management Studio\Settings\CurrentSettings-2008-01-28.vssettings</realpath>
+    </book>
+  </Books>
+</MyLibrary>

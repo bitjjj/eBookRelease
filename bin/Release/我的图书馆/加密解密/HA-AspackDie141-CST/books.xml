@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<MyLibrary>
+  <Books>
+    <book>
+      <path>我的图书馆\加密解密\HA-AspackDie141-CST\AspackDie.eXe</path>
+      <name>AspackDie.eXe</name>
+      <realpath>G:\软件中转站\加密解密\HA-AspackDie141-CST\AspackDie.eXe</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\HA-AspackDie141-CST\ForceLibrary.dll</path>
+      <name>ForceLibrary.dll</name>
+      <realpath>G:\软件中转站\加密解密\HA-AspackDie141-CST\ForceLibrary.dll</realpath>
+    </book>
+    <book>
+      <path>我的图书馆\加密解密\HA-AspackDie141-CST\黑客基地hackbase.htm</path>
+      <name>黑客基地hackbase.htm</name>
+      <realpath>G:\软件中转站\加密解密\HA-AspackDie141-CST\黑客基地hackbase.htm</realpath>
+    </book>
+  </Books>
+</MyLibrary>
